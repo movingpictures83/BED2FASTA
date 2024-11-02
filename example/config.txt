@@ -1,0 +1,2 @@
+Prefix plugins/BED2FASTA/example/
+Plugin BED2FASTA inputfile parameters.bed2fasta.txt outputfile simulated.fasta

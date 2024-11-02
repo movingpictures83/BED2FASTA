@@ -1,0 +1,6 @@
+errorfile	samplereaderror.txt
+fill	A
+errorrate	0.01
+readlen	75
+reffile	reference.fa
+bedfile	simulated.bed
